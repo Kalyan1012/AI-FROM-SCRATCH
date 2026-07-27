@@ -1,0 +1,12 @@
+# Ignore environment variables and API keys in any folder
+.env
+*.env
+.env.*
+
+# Ignore Python virtual environments (recommended)
+venv/
+.venv/
+__pycache__/.env
+.env
+*.env
+venv/
